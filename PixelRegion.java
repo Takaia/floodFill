@@ -2,9 +2,9 @@ package stackfill;
 
 /*
  *
- * @author Amelia Getty
+ * @author Takaia
  * CSCI 132
- * Mar 31, 2017
+ * Mar 4, 2017
  */
 
 /*
